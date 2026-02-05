@@ -5,7 +5,7 @@
   ### Full Stack MERN Developer | React & Node.js Expert | AI Integration Specialist
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somureddy-portfolio.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/somureddy
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/somureddy)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:somureddyirikireddy@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Hyderabad,_India-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+India)
   
