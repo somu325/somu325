@@ -1,12 +1,13 @@
-# Hi there, I'm Somasekhar Reddy Irikireddy 👋
+# Hi, I'm Somasekhar Reddy Irikireddy 👋
 
 <div align="center">
   
-  ### Full Stack MERN Developer | React Specialist | Building Scalable Web Applications
+  ### Full Stack MERN Developer | React & Node.js Expert | AI Integration Specialist
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/somureddy)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somureddy-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/somureddy
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:somureddyirikireddy@gmail.com)
- [![Location](https://img.shields.io/badge/Location-Hyderabad,_India-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+India)
+  [![Location](https://img.shields.io/badge/Location-Hyderabad,_India-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+India)
   
 </div>
 
@@ -14,224 +15,109 @@
 
 ## 🚀 About Me
 
-Innovation for me means **building tools that feel both personal and practical**. I'm a Full Stack MERN Developer passionate about creating responsive, scalable web applications that deliver exceptional user experiences.
+Full Stack Developer building intelligent web applications with **MERN stack** and **AI integration**. Passionate about creating scalable, real-time systems that solve real-world problems.
 
-- 🔭 Currently working at **TechPixe India** as a Software Developer
-- 💻 Specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🌱 Building real-time applications with **WebSockets** and **Socket.io**
-- 🏗️ Developed enterprise-level booking platforms and multi-vendor applications
-- 🏆 Finalist in **Smart India Hackathon 2022** (Hardware Edition)
-- 📍 Based in Hyderabad, Telangana, India
-- 📫 Reach me at: **somureddyirikireddy@gmail.com**
+- 💻 Currently at **TechPixe India** - Building multi-vendor applications
+- 🤖 Built **Astro Ratan** - AI chatbot with OpenAI API integration
+- 🏗️ Specialized in real-time systems with **WebSockets & Socket.io**
+- 🏆 **Smart India Hackathon 2022** Finalist
+- 🌐 Portfolio: **[somureddy-portfolio.vercel.app](https://somureddy-portfolio.vercel.app/)**
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🔹 Software Developer @ TechPixe India
-**Oct 2025 - Present**
-- Developing and managing user interfaces for **multi-vendor applications** using React
-- Implementing comprehensive **RESTful API integrations** for seamless functionality
-- Building responsive, mobile-first web applications
-- Focusing on scalable, maintainable code architecture with modern React patterns
+**Software Developer @ TechPixe India** · Oct 2025 - Present
+- Building multi-vendor application with React and comprehensive API integrations
 
-### 🔹 Software Developer @ Corp-Astro
-**Mar 2025 - Aug 2025**
-- Led full-stack development of interactive web applications
-- Built backend infrastructure with **Node.js, Express.js, and MongoDB**
-- Implemented real-time features using **WebSockets** for instant updates
-- Developed RESTful APIs with proper authentication and authorization
-- Optimized database queries and implemented efficient caching strategies
+**Software Developer @ Corp-Astro** · Mar 2025 - Aug 2025
+- Developed AI chatbot with OpenAI API, FastAPI, Redis, and WebSockets
+- Implemented context-driven conversations with real-time updates
 
-### 🔹 Software Developer @ Genamplify Solutions Hub Pvt Ltd
-**Mar 2024 - Feb 2025**
-- Engineered backend servers with **Node.js and Socket.io** for real-time communication
-- Developed responsive applications using **React and React Native**
-- Implemented event-driven architecture with WebSockets
-- Built a **full-stack booking platform** with React, Node.js, and PostgreSQL
-- Enhanced user experience with optimized load times and intuitive UI/UX
-- Reduced application load times by **40%** through code optimization
+**Software Developer @ Genamplify Solutions Hub** · Mar 2024 - Feb 2025
+- Built booking platform and real-time communication systems
+- Engineered Node.js/Socket.io backend servers
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 📱 Multi-Vendor Application
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+### 🤖 Astro Ratan - AI Conversational Chatbot
+**FastAPI · OpenAI API · WebSockets · Redis · Supabase**
 
-A comprehensive e-commerce platform with multi-vendor support featuring:
-- Dynamic vendor dashboard with real-time analytics
-- Product management system with image uploads
-- User authentication and authorization with JWT
-- Responsive design optimized for all devices
-- RESTful API architecture for scalable operations
-
-**Key Achievements:**
-- Successfully integrated 15+ API endpoints
-- Implemented secure payment gateway integration
-- Optimized database queries reducing response time by 50%
-
----
+AI-powered chatbot with thread-based memory for personalized conversations. Built complete backend infrastructure with real-time communication.
 
 ### 📅 Booking Platform
-**Tech Stack:** React, Node.js, PostgreSQL, Express.js
+**React · Node.js · PostgreSQL · Express.js**
 
-A full-stack booking management system featuring:
-- Intuitive schedule management interface
-- Conflict-free booking system with real-time validation
-- Email notifications for booking confirmations
-- Admin panel for managing bookings and users
-- Enhanced UI/UX for seamless user experience
+Full-stack booking system with schedule management, conflict prevention, and intuitive UI/UX design.
 
-**Key Achievements:**
-- Minimized scheduling conflicts through smart algorithm implementation
-- Designed responsive, user-friendly interface
-- Implemented efficient database queries for optimal performance
-- Achieved 99.9% uptime with proper error handling
+### 📱 Multi-Vendor Application
+**React · Node.js · MongoDB · Express.js**
 
----
+E-commerce platform with vendor dashboards, product management, JWT authentication, and comprehensive API integration.
 
-### 🚀 Real-Time Communication Platform
-**Tech Stack:** Node.js, Socket.io, React, MongoDB
+### 💬 Real-Time Communication Platform
+**Node.js · Socket.io · React · MongoDB**
 
-Enterprise-level real-time application featuring:
-- Event-driven architecture for instant updates
-- WebSocket integration for bi-directional communication
-- User presence indicators and typing status
-- Message history with pagination
-- Scalable backend infrastructure
-
-**Key Achievements:**
-- Improved system responsiveness by implementing WebSocket connections
-- Enhanced user experience with instant message delivery
-- Implemented reliable real-time data synchronization
-- Reduced server load through efficient event handling
-
----
-
-### 📲 React Native Mobile App
-**Tech Stack:** React Native, Node.js, Express.js, MongoDB
-
-Cross-platform mobile application featuring:
-- Smooth animations and transitions
-- Offline-first architecture with local data caching
-- Push notifications for real-time updates
-- RESTful API integration
-- Responsive design for various screen sizes
-
-**Key Achievements:**
-- Delivered app for both iOS and Android from single codebase
-- Improved app performance with optimized rendering
-- Implemented secure authentication flow
+Enterprise messaging system with WebSocket-based instant updates and event-driven architecture.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's of Technology in Mechanical Engineering**  
-Sri Venkateswara College of Engineering Work Experience & Technology  
-*2020 - 2023*
+**B.Tech in Mechanical Engineering** · 2020-2023  
+Sri Venkateswara College of Engineering
 
-**Diploma in Mechanical Engineering**  
-Loyola Polytechnic College (YSRR)  
-*2017 - 2020*
+**Diploma in Mechanical Engineering** · 2017-2020  
+Loyola Polytechnic College
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-- 🥈 **Finalist** in Smart India Hackathon 2022 (Hardware Edition)
-- 📚 **Training Program** on Soft Computing Techniques and Numerical Modeling (SVNIT, Surat)
-- 💻 Completed comprehensive MERN Stack development training
-- 🎓 Advanced JavaScript and React certifications
-
----
-
-## 💡 Core Competencies
-
-```
-🎯 Full Stack Development    📊 Database Design         ⏱️  Performance Optimization
-🔍 RESTful API Design        🤝 Agile Methodologies     💬 Code Review & Mentoring
-🚀 Real-time Applications    📈 Scalable Architecture   🎨 Responsive UI/UX
-```
+- 🥈 Finalist in **Smart India Hackathon 2022** (Hardware Edition)
+- 📚 Training on Soft Computing & Numerical Modeling (SVNIT, Surat)
+- 🎓 Data Science Training (Naresh I Technologies)
 
 ---
 
-## 📈 What I'm Currently Learning
+## 📫 Connect With Me
 
-- Advanced React patterns and performance optimization
-- Microservices architecture with Node.js
-- Docker and Kubernetes for containerization
-- GraphQL for efficient data fetching
-- CI/CD pipelines and DevOps practices
-- TypeScript for type-safe development
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://somureddy-portfolio.vercel.app/)
 
-## 🔧 Development Approach
+**Email:** somureddyirikireddy@gmail.com  
+**Phone:** +91-9391556743  
+**Location:** Hyderabad, Telangana, India
 
-- **Clean Code:** Write maintainable, well-documented code following industry best practices
-- **Responsive Design:** Mobile-first approach ensuring seamless experience across all devices
-- **Performance:** Optimize for speed with lazy loading, code splitting, and efficient algorithms
-- **Security:** Implement proper authentication, authorization, and data validation
-- **Testing:** Write unit and integration tests for robust applications
-- **Agile:** Work in sprints with regular code reviews and continuous integration
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 [LinkedIn](https://linkedin.com/in/somureddy)
-- 📧 Email: somureddyirikireddy@gmail.com
-- 📱 Phone: +91-9391556743
-- 📍 Location: Hyderabad, Telangana, India
-- 💬 Open to: Full-time opportunities, Freelance projects, Collaboration
-
----
-
-## 💭 Quote I Live By
-
-> *"First, solve the problem. Then, write the code."* - John Johnson
+</div>
 
 ---
 
 <div align="center">
   
-  ### Show some ❤️ by starring some of my repositories!
+### 💡 Open to collaborations and opportunities!
   
-  **Thanks for visiting! 😊**
+**Thanks for visiting!** ⭐
   
 </div>
