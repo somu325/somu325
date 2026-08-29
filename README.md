@@ -1,87 +1,123 @@
+# Hi, I'm Somasekhar Reddy Irikireddy 👋
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,4,8&height=130&section=header"/>
+  
+  ### Full Stack MERN Developer | React & Node.js Expert | AI Integration Specialist
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somureddy-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/somureddy)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:somureddyirikireddy@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Hyderabad,_India-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+India)
+  
 </div>
 
-<h1 align="center">Somasekhar Reddy</h1>
-<p align="center"><sub>SOFTWARE DEVELOPER · TECHPIXE INDIA</sub></p>
+---
 
-<p align="center">
-<a href="https://somureddy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-D2691E?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/somureddy"><img src="https://img.shields.io/badge/LINKEDIN-B8621B?style=for-the-badge&logoColor=white"/></a>
-<a href="mailto:somureddyirikireddy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B4513?style=for-the-badge&logoColor=white"/></a>
-</p>
+## 🚀 About Me
 
-<br>
+Full Stack Developer building intelligent web applications with **MERN stack** and **AI integration**. Passionate about creating scalable, real-time systems that solve real-world problems.
 
-### → Currently
+- 💻 Currently at **TechPixe India** - Building multi-vendor applications
+- 🤖 Built **Astro Ratan** - AI chatbot with OpenAI API integration
+- 🏗️ Specialized in real-time systems with **WebSockets & Socket.io**
+- 🏆 **Smart India Hackathon 2022** Finalist
+- 🌐 Portfolio: **[somureddy-portfolio.vercel.app](https://somureddy-portfolio.vercel.app/)**
 
-Mechanical Engineering dropout, in spirit if not on paper — I switched the semester debugging got more interesting than drafting. Now shipping a **multi-vendor commerce platform at TechPixe India**, React front-to-back, new edge cases every week.
+---
 
-<br>
+## 💼 Experience
 
-### → What I've built
+**Software Developer @ TechPixe India** · Oct 2025 - Present
+- Building multi-vendor application with React and comprehensive API integrations
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4>🛰️ Astro Ratan</h4>
-<p>An AI chatbot that had to remember what you said last message — turned out to be a Redis problem wearing an AI costume.</p>
-<sub><code>FastAPI</code> <code>OpenAI</code> <code>Redis</code> <code>WebSockets</code></sub>
-</td>
-<td width="50%" valign="top">
-<h4>📆 Booking Platform</h4>
-<p>Real-time scheduling where the entire job was making sure two people never grabbed the same slot at once.</p>
-<sub><code>React</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>🛒 Vendor Marketplace</h4>
-<p>Multi-vendor commerce, JWT auth, the project I'm currently knee-deep in.</p>
-<sub><code>React</code> <code>Node.js</code> <code>MongoDB</code></sub>
-</td>
-<td width="50%" valign="top">
-<h4>⚡ Real-Time Chat</h4>
-<p>Event-driven messaging, instant delivery, no page refresh in sight.</p>
-<sub><code>Socket.io</code> <code>Node.js</code> <code>React</code></sub>
-</td>
-</tr>
-</table>
+**Software Developer @ Corp-Astro** · Mar 2025 - Aug 2025
+- Developed AI chatbot with OpenAI API, FastAPI, Redis, and WebSockets
+- Implemented context-driven conversations with real-time updates
 
-<br>
+**Software Developer @ Genamplify Solutions Hub** · Mar 2024 - Feb 2025
+- Built booking platform and real-time communication systems
+- Engineered Node.js/Socket.io backend servers
 
-### → Stack
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff"/>
-<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=DC382D"/>
-</p>
+## 🛠️ Tech Stack
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### → The path here
+---
 
-| | |
-|---|---|
-| **TechPixe India** | Oct 2025 — Present · Multi-vendor commerce, React front-to-back |
-| **Corp-Astro** | Mar — Aug 2025 · Built Astro Ratan, FastAPI + Redis + WebSockets |
-| **Genamplify Solutions Hub** | Mar 2024 — Feb 2025 · Real-time booking, Node.js + Socket.io |
+## 🏗️ Featured Projects
 
-<br>
+### 🤖 Astro Ratan - AI Conversational Chatbot
+**FastAPI · OpenAI API · WebSockets · Redis · Supabase**
 
-### → Beyond the editor
+AI-powered chatbot with thread-based memory for personalized conversations. Built complete backend infrastructure with real-time communication.
 
-🏆 Finalist, Smart India Hackathon 2022 (Hardware track)
-🎓 B.Tech Mechanical Engineering, SVCE
+### 📅 Booking Platform
+**React · Node.js · PostgreSQL · Express.js**
 
-<br>
+Full-stack booking system with schedule management, conflict prevention, and intuitive UI/UX design.
+
+### 📱 Multi-Vendor Application
+**React · Node.js · MongoDB · Express.js**
+
+E-commerce platform with vendor dashboards, product management, JWT authentication, and comprehensive API integration.
+
+### 💬 Real-Time Communication Platform
+**Node.js · Socket.io · React · MongoDB**
+
+Enterprise messaging system with WebSocket-based instant updates and event-driven architecture.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Mechanical Engineering** · 2020-2023  
+Sri Venkateswara College of Engineering
+
+**Diploma in Mechanical Engineering** · 2017-2020  
+Loyola Polytechnic College
+
+---
+
+## 🏆 Achievements
+
+- 🥈 Finalist in **Smart India Hackathon 2022** (Hardware Edition)
+- 📚 Training on Soft Computing & Numerical Modeling (SVNIT, Surat)
+- 🎓 Data Science Training (Naresh I Technologies)
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,4,1&height=100&section=footer"/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://somureddy-portfolio.vercel.app/)
+
+**Email:** somureddyirikireddy@gmail.com  
+**Phone:** +91-9391556743  
+**Location:** Hyderabad, Telangana, India
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Open to collaborations and opportunities!
+  
+**Thanks for visiting!** ⭐
+  
 </div>
