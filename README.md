@@ -1,85 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:6C63FF&height=200&section=header&text=Somasekhar%20Reddy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
 
-<a href="https://somureddy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/somureddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:somureddyirikireddy@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=38&pause=1200&color=8B7FFF&center=true&vCenter=true&width=600&lines=Somasekhar+Reddy;Full+Stack+Developer;I+build+things+that+ship." alt="Typing SVG" />
+
+<img src="https://img.shields.io/badge/📍_Building_at-TechPixe_India-8B7FFF?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br><br>
+
+<a href="https://somureddy-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-8B7FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://linkedin.com/in/somureddy">
+<img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8B7FFF"/>
+</a>
+<a href="mailto:somureddyirikireddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B7FFF"/>
+</a>
 
 </div>
 
 <br>
 
-## 🎯 Building right now
-
-Multi-vendor commerce platform at **TechPixe India** — React front-to-back, deep API integration, shipping features weekly.
-
-Previously built **Astro Ratan**, an OpenAI-powered chatbot with thread-based memory, running on FastAPI + Redis + WebSockets.
+> I like taking a product from "it's just an idea" to "it's live and people are using it." Currently deep in a multi-vendor commerce build — before that, I taught a chatbot how to remember conversations. Mechanical engineer by degree, backend-brained by choice.
 
 <br>
 
-## 🧩 Experience
+## ⟡ right now
+
+```
+const somasekhar = {
+  currently: "Building a multi-vendor commerce platform @ TechPixe India",
+  focus: "React front-to-back, real API integration, shipping weekly",
+  learning: "Getting sharper at system design under real production pressure",
+  funFact: "Started in Mechanical Engineering, ended up shipping WebSocket servers"
+};
+```
+
+<br>
+
+## ⟡ how I got here
 
 <table>
-<tr><td><b>TechPixe India</b></td><td>Software Developer</td><td><i>Oct 2025 – Present</i></td></tr>
-<tr><td colspan="3">Multi-vendor application, React, API integration</td></tr>
-<tr><td><b>Corp-Astro</b></td><td>Software Developer</td><td><i>Mar – Aug 2025</i></td></tr>
-<tr><td colspan="3">Astro Ratan: OpenAI chatbot, FastAPI, Redis, WebSockets, thread-based memory</td></tr>
-<tr><td><b>Genamplify Solutions Hub</b></td><td>Software Developer</td><td><i>Mar 2024 – Feb 2025</i></td></tr>
-<tr><td colspan="3">Booking platform, Node.js/Socket.io real-time backend</td></tr>
+<tr>
+<td width="70px" align="center">🔺</td>
+<td>
+<b>TechPixe India</b> · Software Developer <sub>Oct 2025 — Present</sub><br/>
+<sub>Multi-vendor commerce app, React across the stack, deep API integration</sub>
+</td>
+</tr>
+<tr>
+<td align="center">🔺</td>
+<td>
+<b>Corp-Astro</b> · Software Developer <sub>Mar — Aug 2025</sub><br/>
+<sub>Built Astro Ratan — an OpenAI chatbot with real memory, on FastAPI + Redis + WebSockets</sub>
+</td>
+</tr>
+<tr>
+<td align="center">🔺</td>
+<td>
+<b>Genamplify Solutions Hub</b> · Software Developer <sub>Mar 2024 — Feb 2025</sub><br/>
+<sub>Real-time booking platform on Node.js + Socket.io</sub>
+</td>
+</tr>
 </table>
 
 <br>
 
-## ⚡ Stack
+## ⟡ the toolbox
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,fastapi,socketio,redis,git&theme=dark" />
 
 </div>
 
 <br>
 
-## 🚀 Projects
+## ⟡ things I've built
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Astro Ratan**
-AI chatbot with persistent thread memory
-`FastAPI` `OpenAI` `WebSockets` `Redis`
+**🪐 Astro Ratan**
+AI chatbot that actually remembers your last conversation — thread-based memory, real-time over WebSockets.
+`FastAPI` `OpenAI` `Redis` `WebSockets`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Booking Platform**
-Scheduling with conflict prevention
+**📅 Booking Platform**
+Scheduling that doesn't double-book people. Conflict prevention built into the core logic.
 `React` `Node.js` `PostgreSQL`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Vendor Marketplace**
-Multi-vendor commerce, JWT auth
+**🛒 Vendor Marketplace**
+Multi-vendor commerce with proper JWT auth — the project I'm knee-deep in right now.
 `React` `Node.js` `MongoDB`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Real-Time Messaging**
-Event-driven chat, instant delivery
+**💬 Real-Time Messaging**
+Event-driven chat, instant delivery, no page refresh in sight.
 `Node.js` `Socket.io` `React`
 
 </td>
@@ -88,14 +118,17 @@ Event-driven chat, instant delivery
 
 <br>
 
-## 🏆 Beyond code
+## ⟡ beyond the terminal
 
-Smart India Hackathon 2022 Finalist (Hardware Edition) · B.Tech Mechanical Engineering, SVCE
+🏆 Finalist, Smart India Hackathon 2022 (Hardware Edition)
+🎓 B.Tech, Mechanical Engineering — SVCE
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF5722&height=100&section=footer" width="100%"/>
-
+<sub>Always open to a good conversation about product, systems, or why the bug only happens in prod.</sub>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
