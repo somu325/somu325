@@ -1,8 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,4,8&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,4,8&height=140&section=header"/>
+
+<h1>Somasekhar Reddy</h1>
+<p><sub>Software Developer · TechPixe India</sub></p>
 </div>
 
-<br><br>
+<br>
 
 I switched out of Mechanical Engineering the semester I realized I liked debugging more than drafting. Nobody in my family builds software. I just kept opening the console instead of closing it.
 
@@ -10,14 +13,26 @@ Right now that means a multi-vendor commerce platform at **TechPixe India** — 
 
 I don't think the interesting part of any of that was the framework. It was the moment something broke in a way I didn't expect, and I had to sit with it instead of googling the fix immediately.
 
+<br>
+
+<div align="center">
+
 `React` `Node.js` `Express` `MongoDB` `PostgreSQL` `Python` `FastAPI` `Socket.io` `Redis`
 
-Also once built hardware at a national hackathon, which is either a fun fact or proof I don't fully trust software to be real.
+</div>
 
-[somureddy-portfolio.vercel.app](https://somureddy-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/somureddy) · somureddyirikireddy@gmail.com
+<br>
+
+Also once built hardware at a national hackathon, which is either a fun fact or proof I don't fully trust software to be real.
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,4,1&height=90&section=footer"/>
+
+[somureddy-portfolio.vercel.app](https://somureddy-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/somureddy) · somureddyirikireddy@gmail.com
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,4,1&height=100&section=footer"/>
+
 </div>
