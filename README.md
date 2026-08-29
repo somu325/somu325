@@ -1,116 +1,50 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=38&pause=1200&color=8B7FFF&center=true&vCenter=true&width=600&lines=Somasekhar+Reddy;Full+Stack+Developer;I+build+things+that+ship." alt="Typing SVG" />
-
-<img src="https://img.shields.io/badge/📍_Building_at-TechPixe_India-8B7FFF?style=for-the-badge&labelColor=1a1a2e"/>
-
-<br><br>
-
-<a href="https://somureddy-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-8B7FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://linkedin.com/in/somureddy">
-<img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8B7FFF"/>
-</a>
-<a href="mailto:somureddyirikireddy@gmail.com">
-<img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B7FFF"/>
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=140&section=header"/>
 </div>
 
 <br>
 
-> I like taking a product from "it's just an idea" to "it's live and people are using it." Currently deep in a multi-vendor commerce build — before that, I taught a chatbot how to remember conversations. Mechanical engineer by degree, backend-brained by choice.
+<h1 align="center">Somasekhar Reddy</h1>
+<p align="center"><i>I take software from "someone's idea" to "someone's actually using it."</i></p>
+
+<p align="center">
+<a href="https://somureddy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B7FFF?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/somureddy"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=8B7FFF"/></a>
+<a href="mailto:somureddyirikireddy@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=8B7FFF"/></a>
+</p>
 
 <br>
 
-## ⟡ right now
+## Who I am, not what I've shipped
 
-```
-const somasekhar = {
-  currently: "Building a multi-vendor commerce platform @ TechPixe India",
-  focus: "React front-to-back, real API integration, shipping weekly",
-  learning: "Getting sharper at system design under real production pressure",
-  funFact: "Started in Mechanical Engineering, ended up shipping WebSocket servers"
-};
-```
+Mechanical Engineering degree. Backend brain. Somewhere in college I got more excited about what happens when you press "submit" than anything in a CAD file, and never looked back.
+
+I'm the kind of developer who reads the error log before I panic. I'd rather understand *why* something broke than just patch it and move on — that's cost me a few late nights, but it's also why the things I build tend to stay up.
+
+Right now I'm at **TechPixe India**, buried in a multi-vendor commerce platform — React end to end, real APIs, real edge cases, shipping every week whether it's ready to feel finished or not.
 
 <br>
 
-## ⟡ how I got here
+## What I actually think about
 
-<table>
+<table border="0">
 <tr>
-<td width="70px" align="center">🔺</td>
-<td>
-<b>TechPixe India</b> · Software Developer <sub>Oct 2025 — Present</sub><br/>
-<sub>Multi-vendor commerce app, React across the stack, deep API integration</sub>
-</td>
-</tr>
-<tr>
-<td align="center">🔺</td>
-<td>
-<b>Corp-Astro</b> · Software Developer <sub>Mar — Aug 2025</sub><br/>
-<sub>Built Astro Ratan — an OpenAI chatbot with real memory, on FastAPI + Redis + WebSockets</sub>
-</td>
-</tr>
-<tr>
-<td align="center">🔺</td>
-<td>
-<b>Genamplify Solutions Hub</b> · Software Developer <sub>Mar 2024 — Feb 2025</sub><br/>
-<sub>Real-time booking platform on Node.js + Socket.io</sub>
-</td>
-</tr>
-</table>
+<td width="33%" valign="top">
 
-<br>
-
-## ⟡ the toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,fastapi,socketio,redis,git&theme=dark" />
-
-</div>
-
-<br>
-
-## ⟡ things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🪐 Astro Ratan**
-AI chatbot that actually remembers your last conversation — thread-based memory, real-time over WebSockets.
-`FastAPI` `OpenAI` `Redis` `WebSockets`
+**Memory over cleverness**
+Astro Ratan wasn't hard because of the AI part — OpenAI's API is a solved problem. It was hard because a chatbot that forgets you between messages is just autocomplete. Thread-based memory on Redis was the real engineering.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**📅 Booking Platform**
-Scheduling that doesn't double-book people. Conflict prevention built into the core logic.
-`React` `Node.js` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛒 Vendor Marketplace**
-Multi-vendor commerce with proper JWT auth — the project I'm knee-deep in right now.
-`React` `Node.js` `MongoDB`
+**Conflict prevention isn't a feature, it's the product**
+Built a booking platform where the entire job was "never let two people grab the same slot." Sounds simple until you're staring at race conditions at 1am.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**💬 Real-Time Messaging**
-Event-driven chat, instant delivery, no page refresh in sight.
-`Node.js` `Socket.io` `React`
+**Real-time is a discipline**
+Socket.io taught me that "instant" is a promise your architecture has to keep, not a checkbox you tick.
 
 </td>
 </tr>
@@ -118,17 +52,29 @@ Event-driven chat, instant delivery, no page refresh in sight.
 
 <br>
 
-## ⟡ beyond the terminal
+## The path here
 
-🏆 Finalist, Smart India Hackathon 2022 (Hardware Edition)
-🎓 B.Tech, Mechanical Engineering — SVCE
+`Genamplify Solutions Hub` → real-time booking, Node.js + Socket.io, my first taste of systems that had to work *live*
+`Corp-Astro` → built Astro Ratan, an AI chatbot that remembers you — FastAPI, Redis, WebSockets
+`TechPixe India` → now, building multi-vendor commerce, React front-to-back
 
 <br>
+
+## Stack I reach for
+
+`React` `Node.js` `Express` `MongoDB` `PostgreSQL` `Python` `FastAPI` `Socket.io` `Redis`
+
+<br>
+
+## Outside the editor
+
+Finalist, Smart India Hackathon 2022 (Hardware track) — proof I can build things that aren't just software too.
+B.Tech Mechanical Engineering, SVCE — the degree that didn't stick, but taught me how to actually solve a problem before touching a keyboard.
+
+<br>
+
+<p align="center"><sub>Always down to talk product, systems design, or why the bug only shows up in prod.</sub></p>
 
 <div align="center">
-<sub>Always open to a good conversation about product, systems, or why the bug only happens in prod.</sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=100&section=footer"/>
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
