@@ -1,123 +1,96 @@
-# Hi, I'm Somasekhar Reddy Irikireddy 👋
+<h1 align="center">Hi, I'm Somasekhar Reddy Irikireddy 👋</h1>
 
-<div align="center">
-  
-  ### Full Stack MERN Developer | React & Node.js Expert | AI Integration Specialist
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somureddy-portfolio.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/somureddy)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:somureddyirikireddy@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Hyderabad,_India-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+India)
-  
-</div>
+<h3 align="center">Full Stack Developer · Building things that ship, scale, and don't fall over at 2 AM</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Node.js+%2B+Express+%7C+React+%7C+FastAPI;JWT+Auth+%26+RBAC+across+prod+systems;Real-time+with+Socket.io+%26+WebSockets;AWS+%7C+Docker+%7C+CI%2FCD+with+GitHub+Actions;Currently+shipping+multi-vendor+e-commerce+APIs" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
-
-Full Stack Developer building intelligent web applications with **MERN stack** and **AI integration**. Passionate about creating scalable, real-time systems that solve real-world problems.
-
-- 💻 Currently at **TechPixe India** - Building multi-vendor applications
-- 🤖 Built **Astro Ratan** - AI chatbot with OpenAI API integration
-- 🏗️ Specialized in real-time systems with **WebSockets & Socket.io**
-- 🏆 **Smart India Hackathon 2022** Finalist
-- 🌐 Portfolio: **[somureddy-portfolio.vercel.app](https://somureddy-portfolio.vercel.app/)**
+<p align="center">
+  <a href="https://linkedin.com/in/somureddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:somureddyirikireddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Hyderabad,_India-FF6B00?style=for-the-badge&logo=googlemaps&logoColor=white">
+</p>
 
 ---
 
-## 💼 Experience
+### 🧭 The short version
 
-**Software Developer @ TechPixe India** · Oct 2025 - Present
-- Building multi-vendor application with React and comprehensive API integrations
+I'm a full stack developer with 2+ years turning backend chaos into APIs people can actually rely on. I've built 80+ REST endpoints across three companies — for e-commerce, bookings, and a private astrology platform I designed solo, end to end. I like the unglamorous stuff: fixing an N+1 query, getting RBAC right, making sure the email actually sends.
 
-**Software Developer @ Corp-Astro** · Mar 2025 - Aug 2025
-- Developed AI chatbot with OpenAI API, FastAPI, Redis, and WebSockets
-- Implemented context-driven conversations with real-time updates
-
-**Software Developer @ Genamplify Solutions Hub** · Mar 2024 - Feb 2025
-- Built booking platform and real-time communication systems
-- Engineered Node.js/Socket.io backend servers
-
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```text
+const somu = {
+    role: "Full Stack Developer",
+    stack: ["Node.js", "Express.js", "React", "FastAPI", "TypeScript"],
+    currentFocus: "Scaling a multi-vendor e-commerce platform",
+    debugging: "console.log('why 🙃')  // then finding it's a race condition",
+    funFact: "Started in Mechanical Engineering, ended up shipping REST APIs"
+};
+```
 
 ---
 
-## 🏗️ Featured Projects
+### ⚙️ What I actually work with
 
-### 🤖 Astro Ratan - AI Conversational Chatbot
-**FastAPI · OpenAI API · WebSockets · Redis · Supabase**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,py,fastapi,mongodb,postgres,redis,aws,docker,git,github,figma&theme=dark" />
+</p>
 
-AI-powered chatbot with thread-based memory for personalized conversations. Built complete backend infrastructure with real-time communication.
-
-### 📅 Booking Platform
-**React · Node.js · PostgreSQL · Express.js**
-
-Full-stack booking system with schedule management, conflict prevention, and intuitive UI/UX design.
-
-### 📱 Multi-Vendor Application
-**React · Node.js · MongoDB · Express.js**
-
-E-commerce platform with vendor dashboards, product management, JWT authentication, and comprehensive API integration.
-
-### 💬 Real-Time Communication Platform
-**Node.js · Socket.io · React · MongoDB**
-
-Enterprise messaging system with WebSocket-based instant updates and event-driven architecture.
+| Layer | Tools |
+|---|---|
+| **Frontend** | React.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs, Socket.io, JWT Auth |
+| **Data** | MongoDB (aggregation pipelines), PostgreSQL, Redis, Supabase |
+| **Cloud/DevOps** | AWS (EC2, S3), Docker, GitHub Actions CI/CD, Google Cloud Run, Firebase |
+| **Integrations** | Razorpay, Nodemailer, OpenAI API, Google Gemini API, Passport.js |
 
 ---
 
-## 🎓 Education
+### 🛠️ Things I've built
 
-**B.Tech in Mechanical Engineering** · 2020-2023  
-Sri Venkateswara College of Engineering
+**🔹 [Resonance — AI Resume-to-JD Matcher](#)**
+Scores resumes against job descriptions with a skill-gap % and fit verdict. Uses OpenAI, with an automatic Gemini fallback so it doesn't die when one provider hiccups. Full auth (email/Google/GitHub via Passport), deployed on Cloud Run with Docker + GitHub Actions using Workload Identity Federation — no long-lived cloud keys sitting in CI.
 
-**Diploma in Mechanical Engineering** · 2017-2020  
-Loyola Polytechnic College
+**🔹 Slot Booking & Scheduling App**
+React calendar with drag-and-drop scheduling and actual conflict detection (no double-booked slots). MongoDB aggregation for real-time availability, JWT-secured booking/cancellation, automated email + SMS confirmations.
 
----
+**🔹 Multi-vendor E-commerce Platform** *(at Daksh Global Innovations)*
+30+ REST APIs for vendor onboarding, catalog, cart, and orders. Swapped slow `populate()` calls for aggregation pipelines to cut response times. RBAC across vendor/customer/admin dashboards.
 
-## 🏆 Achievements
-
-- 🥈 Finalist in **Smart India Hackathon 2022** (Hardware Edition)
-- 📚 Training on Soft Computing & Numerical Modeling (SVNIT, Surat)
-- 🎓 Data Science Training (Naresh I Technologies)
+**🔹 Private Astrology Platform** *(Corp-Astro, freelance — solo build)*
+React + FastAPI + WebSocket real-time chat, architected and shipped end to end. 20+ self-documenting FastAPI endpoints via OpenAPI/Swagger, Redis caching, normalized Postgres schema on Supabase, deployed on EC2.
 
 ---
 
-## 📫 Connect With Me
+### 📈 GitHub stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=somureddy&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somureddy&layout=compact&theme=react&hide_border=true" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://somureddy-portfolio.vercel.app/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somureddy&theme=react&hide_border=true" />
+</p>
 
-**Email:** somureddyirikireddy@gmail.com  
-**Phone:** +91-9391556743  
-**Location:** Hyderabad, Telangana, India
-
-</div>
+> ⚠️ Replace `somureddy` above with your actual GitHub username if it differs — these widgets pull live from GitHub.
 
 ---
 
-<div align="center">
-  
-### 💡 Open to collaborations and opportunities!
-  
-**Thanks for visiting!** ⭐
-  
-</div>
+### 🌱 From mechanical engineering to backend APIs
+
+Started with a B.Tech in Mechanical Engineering, then pivoted into software after a Data Science & Web Development program. Sometimes the best systems thinking comes from a different discipline — turns out debugging a race condition isn't that different from tracing a failure back through a mechanical assembly.
+
+🏆 Smart India Hackathon 2022 — Finalist, Government of India
+
+---
+
+### 📫 Let's talk
+
+<p align="center">
+  <a href="mailto:somureddyirikireddy@gmail.com">📧 somureddyirikireddy@gmail.com</a> ·
+  <a href="https://linkedin.com/in/somureddy">💼 linkedin.com/in/somureddy</a> ·
+  ☎️ +91-9391556743
+</p>
+
+<p align="center"><i>Open to backend-heavy full stack roles — especially anything involving real-time systems or messy data pipelines that need cleaning up.</i></p>
