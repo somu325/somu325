@@ -1,96 +1,127 @@
-<h1 align="center">Hi, I'm Somasekhar Reddy Irikireddy 👋</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer · Building things that ship, scale, and don't fall over at 2 AM</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Somasekhar%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Node.js%20·%20React%20·%20FastAPI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Node.js+%2B+Express+%7C+React+%7C+FastAPI;JWT+Auth+%26+RBAC+across+prod+systems;Real-time+with+Socket.io+%26+WebSockets;AWS+%7C+Docker+%7C+CI%2FCD+with+GitHub+Actions;Currently+shipping+multi-vendor+e-commerce+APIs" alt="Typing SVG" />
-</p>
+<a href="https://linkedin.com/in/somureddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:somureddyirikireddy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/somu325"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Hyderabad,_India-0f3460?style=flat-square&logo=googlemaps&logoColor=white">
 
-<p align="center">
-  <a href="https://linkedin.com/in/somureddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:somureddyirikireddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Hyderabad,_India-FF6B00?style=for-the-badge&logo=googlemaps&logoColor=white">
-</p>
+</div>
 
----
+<br>
 
-### 🧭 The short version
+## ⚡ About
 
-I'm a full stack developer with 2+ years turning backend chaos into APIs people can actually rely on. I've built 80+ REST endpoints across three companies — for e-commerce, bookings, and a private astrology platform I designed solo, end to end. I like the unglamorous stuff: fixing an N+1 query, getting RBAC right, making sure the email actually sends.
+I build backend systems that don't fall over — 80+ REST APIs shipped across three companies, spanning multi-vendor e-commerce, real-time bookings, and a private astrology platform I architected solo, front to back. My comfort zone is the unglamorous middle layer: query optimization, RBAC that actually holds, race conditions in real-time features.
 
-```text
-const somu = {
-    role: "Full Stack Developer",
-    stack: ["Node.js", "Express.js", "React", "FastAPI", "TypeScript"],
-    currentFocus: "Scaling a multi-vendor e-commerce platform",
-    debugging: "console.log('why 🙃')  // then finding it's a race condition",
-    funFact: "Started in Mechanical Engineering, ended up shipping REST APIs"
-};
-```
+Started in **Mechanical Engineering**, pivoted into software in 2023. Turns out debugging is debugging, whichever discipline you learned it in.
 
----
+<br>
 
-### ⚙️ What I actually work with
+## 🧰 Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,py,fastapi,mongodb,postgres,redis,aws,docker,git,github,figma&theme=dark" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| Layer | Tools |
-|---|---|
-| **Frontend** | React.js, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express.js, FastAPI, REST APIs, Socket.io, JWT Auth |
-| **Data** | MongoDB (aggregation pipelines), PostgreSQL, Redis, Supabase |
-| **Cloud/DevOps** | AWS (EC2, S3), Docker, GitHub Actions CI/CD, Google Cloud Run, Firebase |
-| **Integrations** | Razorpay, Nodemailer, OpenAI API, Google Gemini API, Passport.js |
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 
----
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 
-### 🛠️ Things I've built
+</td>
+<td valign="top" width="50%">
 
-**🔹 [Resonance — AI Resume-to-JD Matcher](#)**
-Scores resumes against job descriptions with a skill-gap % and fit verdict. Uses OpenAI, with an automatic Gemini fallback so it doesn't die when one provider hiccups. Full auth (email/Google/GitHub via Passport), deployed on Cloud Run with Docker + GitHub Actions using Workload Identity Federation — no long-lived cloud keys sitting in CI.
+**Data**
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
 
-**🔹 Slot Booking & Scheduling App**
-React calendar with drag-and-drop scheduling and actual conflict detection (no double-booked slots). MongoDB aggregation for real-time availability, JWT-secured booking/cancellation, automated email + SMS confirmations.
+**Cloud / DevOps**
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 
-**🔹 Multi-vendor E-commerce Platform** *(at Daksh Global Innovations)*
-30+ REST APIs for vendor onboarding, catalog, cart, and orders. Swapped slow `populate()` calls for aggregation pipelines to cut response times. RBAC across vendor/customer/admin dashboards.
+</td>
+</tr>
+</table>
 
-**🔹 Private Astrology Platform** *(Corp-Astro, freelance — solo build)*
-React + FastAPI + WebSocket real-time chat, architected and shipped end to end. 20+ self-documenting FastAPI endpoints via OpenAPI/Swagger, Redis caching, normalized Postgres schema on Supabase, deployed on EC2.
+<br>
 
----
+## 🛠️ Featured builds
 
-### 📈 GitHub stats
+<details open>
+<summary><b>Resonance — AI Resume-to-JD Matcher</b></summary>
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=somureddy&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somureddy&layout=compact&theme=react&hide_border=true" />
-</p>
+Scores resumes against job descriptions, producing a skill-gap % and fit verdict. Runs on OpenAI with an automatic Gemini fallback, so a single provider outage doesn't take it down. Full auth (email + Google + GitHub via Passport), deployed on Cloud Run through Docker and GitHub Actions using Workload Identity Federation — no static cloud keys sitting in CI.
+</details>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somureddy&theme=react&hide_border=true" />
-</p>
+<details>
+<summary><b>Slot Booking & Scheduling App</b></summary>
+<br>
 
-> ⚠️ Replace `somureddy` above with your actual GitHub username if it differs — these widgets pull live from GitHub.
+React calendar with drag-and-drop scheduling and real conflict detection to stop double-bookings. Node/Express REST API using MongoDB aggregation for live availability, JWT-secured booking and cancellation, automated email + SMS confirmations.
+</details>
 
----
+<details>
+<summary><b>Multi-vendor E-commerce Platform — Daksh Global Innovations</b></summary>
+<br>
 
-### 🌱 From mechanical engineering to backend APIs
+30+ REST APIs covering vendor onboarding, catalog, cart, and orders. Replaced slow Mongoose `populate()` calls with aggregation pipelines to cut response times on the heaviest queries. RBAC enforced across vendor, customer, and admin dashboards.
+</details>
 
-Started with a B.Tech in Mechanical Engineering, then pivoted into software after a Data Science & Web Development program. Sometimes the best systems thinking comes from a different discipline — turns out debugging a race condition isn't that different from tracing a failure back through a mechanical assembly.
+<details>
+<summary><b>Private Astrology Platform — Corp-Astro (solo, freelance)</b></summary>
+<br>
 
-🏆 Smart India Hackathon 2022 — Finalist, Government of India
+React + FastAPI + WebSocket real-time chat, architected and deployed end to end. 20+ self-documenting FastAPI endpoints via OpenAPI/Swagger, Redis caching, normalized Postgres schema on Supabase, running on EC2.
+</details>
 
----
+<br>
 
-### 📫 Let's talk
+## 📊 GitHub activity
 
-<p align="center">
-  <a href="mailto:somureddyirikireddy@gmail.com">📧 somureddyirikireddy@gmail.com</a> ·
-  <a href="https://linkedin.com/in/somureddy">💼 linkedin.com/in/somureddy</a> ·
-  ☎️ +91-9391556743
-</p>
+<div align="center">
 
-<p align="center"><i>Open to backend-heavy full stack roles — especially anything involving real-time systems or messy data pipelines that need cleaning up.</i></p>
+<img src="https://github-readme-stats.vercel.app/api?username=somu325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somu325&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somu325&theme=tokyonight&hide_border=true" width="90%"/>
+
+</div>
+
+<br>
+
+## 🏆 Milestones
+
+- 🥈 **Smart India Hackathon 2022** — Finalist, Government of India
+- 🎓 Data Science & Web Development Training, Naresh I Technologies (2023)
+- 🔁 Career pivot: Mechanical Engineering → Full Stack Development
+
+<br>
+
+<div align="center">
+
+**Open to backend-heavy full stack roles** — especially real-time systems or messy data pipelines that need cleaning up.
+
+📧 somureddyirikireddy@gmail.com · 💼 [linkedin.com/in/somureddy](https://linkedin.com/in/somureddy) · ☎️ +91-9391556743
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+</div>
